@@ -16,7 +16,7 @@
 
 -->
 [![sonatype-nexus-community](https://circleci.com/gh/sonatype-nexus-community/bbash.svg?style=shield)](https://circleci.com/gh/sonatype-nexus-community/bbash)
-# BBash
+# BBash - test test test
 
 Tooling to enable a Bug Bash
 
